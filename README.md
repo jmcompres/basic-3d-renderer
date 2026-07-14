@@ -17,10 +17,15 @@ To compile the project, run: `make`
 
 After compiling, run: `./main`
 
-
 (On Windows, execute `main.exe`.)
 
-### Some screenshots:
+Btw, the controls are: W, A, S, D for moving and I, J, K, L for changing the looking angle.
+
+## Controls
+
+Use W, A, S, and D to move the camera, and I, J, K, and L to look around (adjust the camera's viewing angle).
+
+## Some screenshots
 
 ![alt text](image.png)
 ![alt text](image-1.png)
